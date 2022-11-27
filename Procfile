@@ -1,1 +1,1 @@
-web: node . --restrict
+web: node . --server
